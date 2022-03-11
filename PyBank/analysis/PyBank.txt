@@ -1,0 +1,9 @@
+Total Months: 86
+----------------------------
+Total: $ 22564198
+----------------------------
+Average net_change: $ -8311.11
+----------------------------
+Greatest Increase in Profit: 1862002
+----------------------------
+Greatest Decrease in Profit: -1825558
